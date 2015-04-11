@@ -6,10 +6,8 @@
     <groupId>com.nora</groupId>
     <version>1.0-SNAPSHOT</version>
   </parent>
-
-    <groupId>com.nora</groupId>
-    <artifactId>the-network-ws</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    
+    <artifactId>the-network-ws</artifactId>    
     <packaging>war</packaging>
 
     <name>the-network-ws</name>

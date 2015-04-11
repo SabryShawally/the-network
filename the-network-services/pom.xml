@@ -6,10 +6,8 @@
     <groupId>com.nora</groupId>
     <version>1.0-SNAPSHOT</version>
   </parent>
-
-    <groupId>com.nora</groupId>
+    
     <artifactId>the-network-services</artifactId>
-    <version>1.0-SNAPSHOT</version>
     <packaging>ejb</packaging>
 
     <name>the-network-services</name>
